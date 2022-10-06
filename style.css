@@ -1,0 +1,358 @@
+*{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    text-decoration: none;
+    box-sizing: border-box;
+}
+header{
+    background: url(img/Фоновая\ основа.jpg) center/ cover;
+    height: 800px;
+    max-width: 1500px;
+}
+.header_img{
+    margin-top: 25px;
+}
+.fa-bars{
+    font-size: 25px;
+    margin-top: 30px;
+    margin-left: 25px;
+    color: aliceblue;
+}
+.ul_important{
+    margin-top: 25px;
+}
+.fa-bars:hover{
+    font-size: 30px;
+    color: aliceblue;
+    transition: 0.7s;
+}
+.header_top_for a{
+    margin-top: 55px;
+}
+.header_text{
+    margin-top: 25px;
+    margin-right: 55px;
+    list-style: none;
+    text-decoration: none;
+    color: white;
+    font-size: 24px;
+}
+.header_text:hover{
+    color: aliceblue;
+    font-size: 26px;
+    transition: 0.7s;
+}
+.header_main_menu{
+    display: flex;
+}
+.header_h2{
+    margin-left: 450px;
+    font-size: 45px;
+    color: aliceblue;
+    margin-top: 110px;
+}
+.header_p{
+    font-weight: bold;
+    font-size: 55px;
+    color: aliceblue;
+    margin-top: 95px;
+    margin-left: 25px;
+}
+.header_h1{
+    font-size: 150px;
+    color: aliceblue;
+    text-transform: uppercase;
+    margin-left: 450px;
+    margin-top: -50px;
+}
+.header_rasm{
+    position:relative;
+    margin-left: 420px;
+    margin-top: -20px;
+}
+.header_rasm_part1{
+    position: absolute;
+    left: 50%;
+    bottom: 25%;
+}
+.header_rasm_part{
+    position: absolute;
+    left: 49%;
+    bottom: 23%;
+}
+.header_p1{
+    position: absolute;
+    left: 53%;
+    bottom: 23%;
+    color: aliceblue;
+}
+.header_figura{
+    position: absolute;
+    left: 67%;
+    top: 74%;
+}
+.header_first_text{
+    position: absolute;
+    left: 77%;
+    color: aliceblue;
+    top: 70%;
+    width: 200px;
+}
+.header_main_image{
+    position: absolute;
+    top: 95%;
+    left: 10%;
+}
+.header_main_image1{
+    position: absolute;
+    top: 97%;
+    left: 11%;
+}
+/* header-start */
+.main_top{
+    position: relative;
+}
+.main_top_menu{
+    color: red;
+    font-size: 50px;
+    margin-top: 150px;
+}
+.main_text{
+    font-size: 30px;
+    margin-top: 50px;
+}
+.main_p{
+    margin-top: 25px;
+}
+.rasmkuu{
+    margin-top: 50px;
+}
+.rasm{
+    position: absolute;
+    left:79% ;
+    top: 39%;
+}
+.main_menu_text{
+    color: red;
+    margin-top: 50px;
+    font-size: 50px;
+}
+.main_menu_text2{
+    margin-top: 70px;
+}
+.main_menu_text3{
+    margin-top: 30px;
+    width: 770px;
+}
+.main_menu_text4{
+    color: red;
+    width: 770px;
+    margin-top: 30px;
+}
+.main_menu_text5{
+    margin-top: 30px;
+    width: 770px;
+}
+.main_menu_text6{
+    margin-top: 30px;
+    width: 770px;
+}
+.main_header{
+    position: relative;
+}
+.images_line{
+    position: absolute;
+    left:100%;
+    top: 0%;
+}
+.images_ilon{
+    position: absolute;
+    left:95%;
+    top: 10%;
+}
+.main_main{
+    position: relative;
+}
+.main_main_text{
+    padding: 50px;
+    margin-left: 150px;
+    margin-top: 100px;
+}
+.main_main_picture{
+    position: absolute;
+    left: 15%;
+    top: 22%;
+}
+.main_main_text1_1{
+    width: 700px;
+}
+.main_main_text1_0{
+    position: absolute;
+    top: 30%;
+    left: 40%;
+    font-weight: bold;
+    color: aliceblue;
+    font-size: 21px;
+}
+.main_main_text1_1{
+    position: absolute;
+    top: 40%;
+    left: 40%;
+    color: aliceblue;
+    width: 600px;
+}
+.main_main_text1_2{
+    position: absolute;
+    top:  65% ;
+    font-size: 50px;
+    color: aliceblue;
+    left: 40%;
+}
+.main_main_text1_3{
+    position: absolute;
+    top:  69% ;
+    font-size: 20px;
+    color: aliceblue;
+    left: 58%;
+}
+.main_main_text1_4{
+    position: absolute;
+    top:  69% ;
+    left: 72%;
+    width: 150px;
+    height: 50px;
+    border-radius: 12px;
+    border: none;
+    color: palevioletred;
+}
+.section_top{
+    background: url(img/stars-space-nebula-2048x1152.png) center/ cover;
+    height: 1300px;
+    width: 100%;
+    position: relative;
+}
+.section_top_text{
+    color: aliceblue;
+    margin-left: 200px;
+    padding: 80px;
+    font-size: 50px;
+}
+.section_top_img{
+    margin-left: 200px;
+}
+.section_top_img2{
+    position: absolute;
+    top: 45%;
+    left: 50%;
+}
+.section_top_img3{
+    position: absolute;
+    top: 47%;
+    left: 51%;
+}
+.section_top_text1_5{
+    margin-top: 55px;
+    font-weight: bold;
+    margin-left: 125px;
+    color: aliceblue;
+}
+.section_top_text1_6{
+    margin-top: 55px;
+    font-weight: bold;
+    margin-left: 125px;
+    color: aliceblue;
+}
+.section_top_text1_7{
+    margin-top: 55px;
+    font-weight: bold;
+    margin-left: 125px;
+    color: aliceblue;
+}
+.section_top_text1_8{
+    margin-top: 55px;
+    font-weight: bold;
+    margin-left: 125px;
+    color: aliceblue;
+}
+.kerak{
+    position: relative;
+}
+.small_img{
+    margin-top: 60px;
+    width: 10px;
+}
+.small_img1{
+    position: absolute;
+    left: 20%;
+    top: 35%;
+}
+.small_img2{
+    position: absolute;
+    left: 20%;
+    top: 58%;
+}
+.small_img3{
+    position: absolute;
+    left: 20%;
+    top: 75%;
+}
+.main_text{
+    color: aliceblue;
+    font-size: 15px;
+
+}
+.section_main{
+    position: relative;
+}
+.section_main_p{
+    font-size: 60px;
+    color: red;
+    width: 1200px;
+
+    padding: 100px;
+}
+.section_main_img{
+    position: absolute;
+    top: 35%;
+    left: 10%;
+}
+.section_main_img1{
+    position: absolute;
+    top: 35%;
+    left: 15%;
+}
+.section_main_img2{
+    margin-left: 250px;
+}
+.im_sure1{
+    margin-left: 350px;
+    padding: 25px;
+    font-size: 26px;
+    font-weight: bold;
+}
+.im_sure2{
+    margin-left: 370px;
+    width: 800px;
+}
+.im_sure3{
+    width: 150px;
+    height: 50px;
+    margin-left: 370px;
+    border-radius:12px;
+    margin-top: 50px;
+    border: none;
+    color: aliceblue;
+    background: red;
+}
+.footer_one{
+    background: url(img/Layer\ 2.png)center/cover;
+    height: 800px;
+    margin-top: 30px;
+    width: 100%;
+}
+.footer_form{
+    width: 500px;
+    background: url();
+    height: 400px;
+}
